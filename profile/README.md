@@ -1,3 +1,3 @@
 ## .github
 
-Heidi - Die Legende
+Heidi - Die Legende vom Luchs 
